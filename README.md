@@ -42,7 +42,7 @@ Created a Group Policy to automatically map the Sales network share to the S: dr
 ---
 
 ### 4. Verified Mapped Drive Access
-Updated group policy using `gpupdatep` on the client and confirmed that the S: drive appeared with the shared files available to the user.
+Updated group policy using `gpupdate` on the client and confirmed that the S: drive appeared with the shared files available to the user.
 
 **Command Used**
 ```
