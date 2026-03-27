@@ -33,7 +33,7 @@ Configured the Sales folder as a network share so it could be reached by users a
 ---
 
 ### 3. Configured Drive Mapping Policy
-Created a Group Policy to automatically map the Sales network share to the S: drive for users. Linked the drive mapping policy to the correct Organizational Unit (Sales_Users) so it would apply to the intended user account through Item-Level Targeting. 
+Created a Group Policy to automatically map the Sales network share to the `S:` drive for users. Linked the drive mapping policy to the correct Organizational Unit `Sales_Users` so it would apply to the intended user account through Item-Level Targeting. 
 
 ![Screenshot 4](4-gpo-mapped-drive.png)
 
