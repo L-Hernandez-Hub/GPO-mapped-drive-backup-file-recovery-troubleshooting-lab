@@ -93,7 +93,7 @@ Used Windows Server Backup to recover the missing `Sales` files from the availab
 ### 10. Verified File Recovery
 Confirmed that the deleted files were restored on the server and became available again through the mapped `S:` drive on the client machine.
 
-![Screenshot 12](12-business-files-confrimation.png)
+![Screenshot 12](12-business-files-confrimation-.png)
 
 ---
 
